@@ -1,6 +1,6 @@
 # astrbot_plugin_moderation
 
-群消息内容审核插件，专为菲克斯实例设计。
+群消息内容审核插件。
 
 ## 功能
 
