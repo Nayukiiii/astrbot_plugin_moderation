@@ -1,0 +1,5 @@
+name: astrbot_plugin_moderation
+desc: 群消息内容审核：APK/视频规则拦截，文本用NIM Llama Guard，图片用OpenAI Moderation，违规撤回+禁言
+version: 1.0.0
+author: Nayukiiii
+repo: https://github.com/Nayukiiii/astrbot_plugin_moderation

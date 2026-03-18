@@ -1,0 +1,6 @@
+{
+  "nim_api_key": {"type": "string", "label": "NIM API Key", "desc": "NVIDIA NIM API Key，用于文本审核", "default": ""},
+  "openai_api_key": {"type": "string", "label": "OpenAI API Key", "desc": "OpenAI API Key，用于图片审核（免费）", "default": ""},
+  "enabled_groups": {"type": "list", "label": "开启审核的群号", "desc": "留空=全部群", "default": []},
+  "ban_duration": {"type": "int", "label": "禁言时长（秒）", "desc": "默认600秒", "default": 600}
+}
